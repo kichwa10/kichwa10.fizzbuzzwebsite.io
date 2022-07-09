@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+}
